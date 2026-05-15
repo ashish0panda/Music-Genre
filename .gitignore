@@ -1,0 +1,50 @@
+# Python
+*.py[cod]
+*$py.class
+__pycache__/
+*.so
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+web/backend/venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Machine Learning / Model Artifacts
+*.keras
+*.npz
+*.h5
+*.pkl
+*.pickle
+*.json
+
+# Project Outputs
+music_genre_project_outputs/
+training_plots/
+
+# Data
+Data/
+
+# Node.js / Frontend
+node_modules/
+web/frontend/node_modules/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
